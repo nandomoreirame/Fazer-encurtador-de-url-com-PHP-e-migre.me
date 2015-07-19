@@ -3,4 +3,4 @@
 
 ## License
 
-[MIT](http://opensource.org/licenses/MIT)
+[MIT](/blob/master/LICENSE)
